@@ -1,5 +1,5 @@
-# Welcome
-Welcome to Documentation Wiki on CVs and how to use them
+# Welcome to the Data Request Documentation Page
+
 
 
 
@@ -8,21 +8,21 @@ Welcome to Documentation Wiki on CVs and how to use them
     The contents of the pages are currently in development, and many aspects still in flux. 
 
 
-## Projects
-Currently there are several projects available. These are:
+## Airtable Links
 
-* `CMIP6Plus` - the current iteration of CMIP6 related sumbissions allowing us to test and prototype cutting edge improvements to usability and infrastructure and assess their suitability going forward. 
-* `INPUT4MIPs` - forcings
-* `OBS4MIPs` - observations
+## Opertunities
+<iframe class="airtable-embed" src="https://airtable.com/appbrFryP1MhstOS3/shrrR1EZUsoiOWZFw/tblAc4idfFUl1Nbo8/viwh2HZ2lVipqgM9n?blocks=bipAO9mk7suCcc3Gg&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-The structure of this documentation will be allow the subtitution of your relevant mip in the `<mip_name>` tags. Should your MIP not be features, please speak to us regarding resources and requirements. 
 
-## Useful Links 
-There are number of links that may infulence your workflow. Many of these can be found on the <a href='wcrp-cmip.org'> CMIP-IPO website </a>.
+## Variables
+<iframe class="airtable-embed" src="https://airtable.com/appBWxP0SS7K1hweJ/shrxhV6tenQBnOGRj/tblTLr91kMNaQTiCQ/viw82lb29IupSWCvv?blocks=bip0j1KMajP5L0L2W" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-## iframe test
-<iframe class="airtable-embed" src="https://airtable.com/embed/appaZflpqbFjA6pwV/shrfJsMoGB0KZ62nN?backgroundColor=purple&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-## Project layout
+## Physical Parameters
+<iframe class="airtable-embed" src="https://airtable.com/appBWxP0SS7K1hweJ/shrxhV6tenQBnOGRj/tblTLr91kMNaQTiCQ/viw82lb29IupSWCvv?blocks=bip0j1KMajP5L0L2W
+" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+
+## Project layout when editing
 
     mkdocs.yml    # The configuration file.
     docs/
