@@ -18,7 +18,7 @@
 <iframe class="airtable-embed" src="https://airtable.com/embed/appBWxP0SS7K1hweJ/shrxhV6tenQBnOGRj/tblTLr91kMNaQTiCQ/viw82lb29IupSWCvv?blocks=bip0j1KMajP5L0L2W&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Physical Parameters
-<iframe class="airtable-embed" src="https://airtable.com/appTxk0H6kspmfbtM/shr7b3OAsS9O5m98u/tblG6qfAkZwyAlMdo/viwcuIMWa4iAbFdFW?blocks=bipiUOVtoLaK6YqhZ?blocks=bip0j1KMajP5L0L2W&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appTxk0H6kspmfbtM/shr7b3OAsS9O5m98u/tblG6qfAkZwyAlMdo/viwcuIMWa4iAbFdFW?blocks=bipiUOVtoLaK6YqhZ?blocks=bip0j1KMajP5L0L2W&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 
 ## Project layout when editing
