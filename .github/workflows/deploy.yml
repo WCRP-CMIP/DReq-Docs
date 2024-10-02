@@ -19,7 +19,7 @@ jobs:
         python-version: 3.8  # Choose the Python version you need
 
     - name: Cache dependencies
-      uses: actions/cache@v2
+      uses: actions/cache@v3
       with:
         path: |
           ~/.cache/pip
@@ -54,10 +54,10 @@ jobs:
         echo "No local changes to commit."
         fi
         
-        git checkout production
+        # git checkout production
 
-        # Remove files and directories from the production branch
-        git rm -r --ignore-unmatch */*
+        # # Remove files and directories from the production branch
+        # git rm -r --ignore-unmatch */*
 
         git checkout main -- site
 
