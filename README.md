@@ -3,10 +3,10 @@
 [![MkDocs Build + Deploy](https://github.com/WCRP-CMIP/mipcvs-wiki/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/WCRP-CMIP/mipcvs-wiki/actions/workflows/deploy.yml) [![Deploy static content to Pages](https://github.com/WCRP-CMIP/mipcvs-wiki/actions/workflows/staticpublish.yml/badge.svg)](https://github.com/WCRP-CMIP/mipcvs-wiki/actions/workflows/staticpublish.yml)
 
 
-To View See [drdocs.mipcvs.dev](https://drdocs.mipcvs.dev/)
+To View the main documentation: See [drdocs.mipcvs.dev](https://drdocs.mipcvs.dev/)
 
 ---
-For the development branch try [cmip-data-request.github.io/DReq-Docs/](https://cmip-data-request.github.io/DReq-Docs/)
+For the CMIP-Data-Request development repository try [cmip-data-request.github.io/DReq-Docs/](https://cmip-data-request.github.io/DReq-Docs/)
 
 ---
 
