@@ -17,6 +17,13 @@ For the CMIP-Data-Request development repository try [cmip-data-request.github.i
 - menu/page name is determined by the `#` header tag at the top of a file. 
 
 
+### Viewing an IPyNb online. 
+#### Steps to Convert:
+Copy the GitHub notebook URL (e.g., https://github.com/user/repo/blob/main/path/to/notebook.ipynb).
+Replace https://github.com with https://nbviewer.jupyter.org/github.
+Ensure blob/ remains in the path for the nbviewer link to work correctly.
+
+
 ## Resources
 ### Demo files and structure: 
     https://github.com/selfhostedshow/wiki/tree/master
