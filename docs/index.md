@@ -5,7 +5,7 @@
 
 !!! tip "Documentation in progress"
 
-    The contents of the pages are currently in development, and many aspects still in flux. 
+    The contents of the pages are currently in development. 
 
 
 ## AirTable Links
